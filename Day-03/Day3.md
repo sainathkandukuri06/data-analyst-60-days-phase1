@@ -131,14 +131,5 @@ By completing Day 3, I developed a foundational understanding of data quality, d
 
 These concepts will help me prepare datasets for reliable analysis using Excel, SQL, Python, and Power BI in upcoming challenges.
 
-# Challenge Progress
-
-* [x] Day 1 — Introduction to Data Analytics
-* [x] Day 2 — Data Fundamentals and Data Types
-* [x] Day 3 — Data Quality, Data Profiling & Data Validation
-* [ ] Day 4 — Exploratory Data Analysis and Descriptive Statistics
 
 
-*Challenge:* 60 Days Data Analyst Challenge — Phase 1
-*Focus:* Data Analytics Foundations
-*Status:* Day 3 Completed
