@@ -16,7 +16,7 @@ By the end of this challenge, I learned about:
 - Exploring data using Excel and Power BI.
 - Converting analytical findings into business insights.
 
-## 1. What Is Exploratory Data Analysis?
+# 1. What Is Exploratory Data Analysis?
 
 Exploratory Data Analysis (EDA) is the process of examining and summarizing data to understand its characteristics, patterns, relationships, and potential problems.
 
